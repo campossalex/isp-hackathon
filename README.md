@@ -28,3 +28,11 @@ chmod +x mc
 ./mc od if=local_file.csv of=vvpminio/data/my_data/file.csv
 ```
 
+### Enviroments
+
+Group 1: http://ec2-3-79-24-110.eu-central-1.compute.amazonaws.com:8088  
+Group 2: http://ec2-3-79-30-161.eu-central-1.compute.amazonaws.com:8088  
+Group 3: http://ec2-63-178-228-105.eu-central-1.compute.amazonaws.com:8088  
+Group 4: http://ec2-63-179-102-85.eu-central-1.compute.amazonaws.com:8088  
+Group 5: http://ec2-63-176-92-17.eu-central-1.compute.amazonaws.com:8088  
+
