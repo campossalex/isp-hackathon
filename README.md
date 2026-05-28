@@ -28,6 +28,15 @@ chmod +x mc
 ./mc od if=local_file.csv of=vvpminio/data/my_data/file.csv
 ```
 
+S3 credentials to add (session cluster or job):
+
+```
+s3.access-key: admin
+s3.secret-key: password
+s3.endpoint: 'http://minio.vvp-system.svc:9000'
+s3.path.style.access: 'true'
+```
+
 ### Enviroments
 
 Group 1: http://ec2-3-79-24-110.eu-central-1.compute.amazonaws.com:8088  
