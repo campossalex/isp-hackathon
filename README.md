@@ -9,6 +9,8 @@ https://github.com/campossalex/flink_cookbook
 ### Kafka: 
 `host.minikube.internal:9092`
 
+From ssh: `kubernetes-vm:9092`
+
 ### Postgres:
 `jdbc:postgresql://host.minikube.internal:5432`   
 ssh: sudo -i -u postgres psql
