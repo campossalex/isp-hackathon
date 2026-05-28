@@ -18,7 +18,8 @@ ssh: sudo -i -u postgres psql
 
 ### Minio
 `s3://data`
-Interact with Minio:
+
+Interact with Minio (CLI):
 ```
 wget https://dl.min.io/client/mc/release/linux-amd64/mc
 chmod +x mc
